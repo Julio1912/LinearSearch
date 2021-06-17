@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linear_Search", "Linear_Search\Linear_Search.csproj", "{54BC6030-D83A-4A9B-BE21-4969EA91EB61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BC6030-D83A-4A9B-BE21-4969EA91EB61}.Debug|x86.ActiveCfg = Debug|x86
+		{54BC6030-D83A-4A9B-BE21-4969EA91EB61}.Debug|x86.Build.0 = Debug|x86
+		{54BC6030-D83A-4A9B-BE21-4969EA91EB61}.Release|x86.ActiveCfg = Release|x86
+		{54BC6030-D83A-4A9B-BE21-4969EA91EB61}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

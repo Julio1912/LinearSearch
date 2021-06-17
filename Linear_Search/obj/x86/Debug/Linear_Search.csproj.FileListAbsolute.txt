@@ -1,0 +1,4 @@
+c:\users\lida\documents\visual studio 2010\Projects\Linear_Search\Linear_Search\bin\Debug\Linear_Search.exe
+c:\users\lida\documents\visual studio 2010\Projects\Linear_Search\Linear_Search\bin\Debug\Linear_Search.pdb
+c:\users\lida\documents\visual studio 2010\Projects\Linear_Search\Linear_Search\obj\x86\Debug\Linear_Search.exe
+c:\users\lida\documents\visual studio 2010\Projects\Linear_Search\Linear_Search\obj\x86\Debug\Linear_Search.pdb
